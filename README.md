@@ -7,6 +7,19 @@ This project **does not focus on modeling**, but rather demonstrates strong **da
 
 ---
 
+## Project Objective
+This project focuses on transforming messy health checkup data into clean, structured data suitable for analysis and future modeling.
+
+---
+
+## Technologies Used
+- Python 🐍
+- Pandas 📊
+- Seaborn 📉
+- Matplotlib 📈
+- Google Colab 🚀
+
+---
 ## 📂 Dataset Description
 - **Source:** Synthetic Health Checkup Data (for demonstration purposes)
 - **File:** `health_screening_data.csv`
